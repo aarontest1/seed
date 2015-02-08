@@ -1,0 +1,12 @@
+button.round {
+    height:40px;
+    width:100px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+button.round img {
+    height:20px;
+    width:20px;
+}
