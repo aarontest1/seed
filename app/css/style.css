@@ -1,12 +1,21 @@
-button.round {
-    height:40px;
+.round {
+    display:inline-block;
+    height:32px;
     width:100px;
+    padding: 4px;
     border: 1px solid grey;
     border-radius: 3px;
-    font-size: 14px;
+    font-size: 18px;
+    background-color: grey;
+    color:white;
 }
 
-button.round img {
-    height:20px;
-    width:20px;
+.round img {
+    height:32px;
+    width:32px;
+}
+
+.round span {
+    vertical-align: top;
+    line-height: 30px;
 }
